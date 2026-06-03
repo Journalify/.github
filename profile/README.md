@@ -32,15 +32,18 @@ Journalify is a **multi-tenant SaaS editorial platform** that helps newsrooms pu
 
 ## Open repos here
 
-We're pre-MVP. Public surfaces ship as they harden:
+We're pre-MVP. Most platform code is private during the build window. Public surfaces ship as they harden:
 
 - **`halo-Journalify-reader`** — the public reader for newsroom audiences. Built to be the front door any reader hits when consuming content published through Journalify.
+- *(More public surfaces coming as the platform stabilizes — currently shipping daily across multiple internal services covering editorial workflows, admin operations, AI assistance, infrastructure, and marketing.)*
 
 ## Where we're based
 
 **Sherif Mohamed Investments UG (haftungsbeschränkt)**
 Französische Straße 20, 10117 Berlin, Germany
 HRB 268211 B · Amtsgericht Charlottenburg
+
+**Founder:** Sherif Sayed Zaki Mohamed — building Journalify after a decade across editorial technology.
 
 ## Get in touch
 
@@ -51,7 +54,7 @@ HRB 268211 B · Amtsgericht Charlottenburg
 
 ## Status
 
-Pre-revenue, pre-MVP launch. Bootstrapped from Berlin. Actively shipping.
+Pre-revenue, pre-MVP launch. Bootstrapped from Berlin with support from Microsoft for Startups Founders Hub. Actively shipping.
 
 ---
 
