@@ -2,9 +2,9 @@
 
 # Journalify
 
-### **Editorial OS for modern newsrooms.**
+### **Editorial OS for modern multilingual newsrooms.**
 
-*Multi-tenant · Arabic-first · AI-native · Built in Berlin.*
+*AI-assisted · EU-hosted · Built in Berlin.*
 
 [![Website](https://img.shields.io/badge/website-journalify.io-7912D5?style=for-the-badge)](https://journalify.io)
 
@@ -14,11 +14,11 @@
 
 ## What we're building
 
-Journalify is a **multi-tenant SaaS editorial platform** that helps newsrooms publish faster — from assignment to byline to public reader, in one workflow. We give editors, journalists, and newsroom admins the tools they actually need: AI-assisted writing, multilingual + RTL-first publishing, real-time collaboration, integrated analytics, and a clean publish-anywhere workflow.
+Journalify is the **editorial operating system for modern multilingual newsrooms**. We give editors, journalists, and newsroom leaders the tools they actually need — AI-assisted writing, true multilingual editing, integrated workflows from assignment to publish, and analytics that mean something.
 
-**The problem.** Most newsroom CMSes were built English-first and bolted Arabic / RTL / multilingual on top a decade later. Editors fight their CMS to publish a clean Arabic story. Multi-language workflows are duct-tape. AI is either absent or grafted on as a useless sidecar.
+**The problem.** Most newsroom CMSes were built English-first and bolted multilingual support on top a decade later. Editors fight their CMS to publish a clean Arabic story. Multi-language workflows are duct-tape. AI is either absent or grafted on as a sidecar that hallucinates quotes.
 
-**Our take.** Build it Arabic-first from day zero. Give editors AI that *challenges* their work, not replaces it. Make multilingual + multi-tenant the default architecture, not the special case. Strong privacy posture for European publishers, with MENA-first attention to RTL details, calendars, and editorial culture.
+**Our take.** Build true multilingual editing — including real bidirectional support for Arabic and Hebrew — into the foundation, not as an afterthought. Give editors AI that *challenges* their work, not replaces it. Host it all in the EU, engineered in Berlin, designed alongside newsrooms in MENA and Europe.
 
 ---
 
