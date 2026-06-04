@@ -2,9 +2,11 @@
 
 # Journalify
 
-### **The editorial OS for newsrooms that publish in any language, for any audience.**
+### **Journalify: The AI-native OS for the modern newsroom.**
 
-*AI-assisted · Multilingual · Editor-first.*
+*Every deadline. Every desk. Every story.*
+
+**Editor-first · Multilingual · Built for the desk**
 
 [![Website](https://img.shields.io/badge/website-journalify.io-7912D5?style=for-the-badge)](https://journalify.io)
 
@@ -14,7 +16,7 @@
 
 ## What we're building
 
-Journalify is the **editorial operating system for newsrooms that publish in any language, for any audience**. We give editors, journalists, and newsroom leaders the tools they actually need — AI-assisted writing, true multilingual editing (LTR + RTL, mixed-direction content, multi-script), integrated workflows from assignment to publish, and analytics that mean something.
+Journalify is the **AI-native operating system for the modern newsroom**. Every deadline. Every desk. Every story. We give editors, journalists, and newsroom leaders the tools they actually need — AI-assisted writing, true multilingual editing (LTR + RTL, mixed-direction content, multi-script), integrated workflows from assignment to publish, and analytics that mean something.
 
 **The problem.** Most newsroom CMSes were built around one language and one editorial culture, then bolted multilingual support on top a decade later. Editors fight their CMS to publish across scripts. Workflow tools assume one language, one timezone. AI is absent, or grafted on as a sidecar that hallucinates quotes.
 
